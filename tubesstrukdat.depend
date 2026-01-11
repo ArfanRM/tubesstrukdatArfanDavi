@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1767084826 source:c:\data\kuliah\tubes strukdat\tubesstrukdat\tubes.cpp
+	"tubes.h"
+	<iostream>
+	<cctype>
+
+1767084804 c:\data\kuliah\tubes strukdat\tubesstrukdat\tubes.h
+	<string>
+
+1767084842 source:c:\data\kuliah\tubes strukdat\tubesstrukdat\main.cpp
+	<iostream>
+	<string>
+	"tubes.h"
+
+1768057912 source:c:\users\arfan\onedrive - telkom university\data\kuliah\tubes strukdat\tubesstrukdat\main.cpp
+	"tubes.h"
+	<iostream>
+
+1768057912 c:\users\arfan\onedrive - telkom university\data\kuliah\tubes strukdat\tubesstrukdat\tubes.h
+	<iostream>
+
+1768057912 source:c:\users\arfan\onedrive - telkom university\data\kuliah\tubes strukdat\tubesstrukdat\tubes.cpp
+	"tubes.h"
+
